@@ -2,9 +2,11 @@
 
  # client impruv
 
-* List
-* of
-* bullet
-* points
+- List
+- of
+- 5
+- bullet
+- points
 
-<p> There is a bug in this file</p>
+
+There is no bug in this file
